@@ -14,7 +14,7 @@
     <p> 
       The Idle RPG can be played on the
       <a href="http://www.overdrive.pw/">OVERdrive-IRC Network</a> in the
-      channel #idlerpg. See <a href="http://www.overdrive.pw/servers/">this</a>
+      channel #idlerpg. See <a href="http://overdrive.pw/servers">this</a>
       link for a list of servers.
     </p>
     
