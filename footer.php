@@ -2,7 +2,7 @@
     <div class="footer">
         <p class="small">
             Questions? Comments? Suggestions? Bugs? Naked pics?
-            <a href="contact.php"><?php print $admin_email?></a> or <?php print $admin_nick?>@IRC.
+            <a href="contact.php"><?php print gbyers@geordienorman.com></a> or <?php print $admin_nick?>@IRC.
 <?php
             $hits = file("hits.db");
             $fp = fopen("hits.db", "w");
