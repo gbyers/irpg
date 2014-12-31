@@ -24,7 +24,7 @@ $irpg_mod="/home/geordie_2/idlerpg/modifiers.txt";
 $irpg_qfile="/home/geordie_2/idlerpg/questinfo.txt";
 
 // image to use for the top logo
-$irpg_logo="idlerpg.png";
+$irpg_logo="download.png";
 
 // directory in which your site is located from the root directory. my site
 // is http://jotun.ultrazone.org/g7/, so it's "/g7/"
