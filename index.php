@@ -13,8 +13,8 @@
     <h2>Location</h2>
     <p> 
       The Idle RPG can be played on the
-      <a href="http://www.slashnet.org/">SlashNET IRC Network</a> in the
-      channel #G7. See <a href="http://www.slashnet.org/servers/">this</a>
+      <a href="http://www.overdrive.pw/">OVERdrive-IRC Network</a> in the
+      channel #idlerpg. See <a href="http://www.overdrive.pw/servers/">this</a>
       link for a list of servers.
     </p>
     
