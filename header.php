@@ -25,12 +25,8 @@
         'Player Info' => $BASEURL . 'players.php',
         'Contact' => $BASEURL . 'contact.php',
         'Source' => 'http://idlerpg.net/source.php',
-        'Other IRPGs' => 'http://idlerpg.net/others.php',
         'Site Source' => 'http://idlerpg.net/sitesource.php',
-        'World Map' => $BASEURL . 'worldmap.php',
         'Quest Info' => $BASEURL . 'quest.php',
-        'Forum' => 'http://idlerpg.net/forum.php',
-        'moo.' => 'http://cowcult.org',
     );
 
     foreach ($topbarurl as $key => $value) {
